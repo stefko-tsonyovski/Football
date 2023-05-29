@@ -1,0 +1,16 @@
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\bin\Debug\net5.0\Football_HW.exe
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\bin\Debug\net5.0\Football_HW.deps.json
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\bin\Debug\net5.0\Football_HW.runtimeconfig.json
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\bin\Debug\net5.0\Football_HW.runtimeconfig.dev.json
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\bin\Debug\net5.0\Football_HW.dll
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\bin\Debug\net5.0\Football_HW.pdb
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\obj\Debug\net5.0\Football_HW.csproj.AssemblyReference.cache
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\obj\Debug\net5.0\Football_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\obj\Debug\net5.0\Football_HW.AssemblyInfoInputs.cache
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\obj\Debug\net5.0\Football_HW.AssemblyInfo.cs
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\obj\Debug\net5.0\Football_HW.csproj.CoreCompileInputs.cache
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\obj\Debug\net5.0\Football_HW.dll
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\obj\Debug\net5.0\refint\Football_HW.dll
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\obj\Debug\net5.0\Football_HW.pdb
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\obj\Debug\net5.0\Football_HW.genruntimeconfig.cache
+C:\Users\Мирослав Узунов\source\repos\Информтика\University\OOP 2\Football_HW\Football_HW\obj\Debug\net5.0\ref\Football_HW.dll
